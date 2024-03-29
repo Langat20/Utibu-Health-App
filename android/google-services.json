@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823660517962",
+    "project_id": "utibu-health-app",
+    "storage_bucket": "utibu-health-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823660517962:android:8ff2a316531c1c76ae64b3",
+        "android_client_info": {
+          "package_name": "com.langat20.utibu_health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1Jd-luK_jjjuZz6ZKjVVmfeYzQZdLJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
